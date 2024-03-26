@@ -9,8 +9,8 @@
 ![manjarorounded](https://github.com/alb-soul/alb-soul/assets/100475822/28b98183-3f89-450b-b90f-caee0f3f9da2)
 
 - 🏫  Student in Ahmad Dahlan University
-- 🧑🏻‍💻  Interested in Programming and Web Security
-- 🌱  Web Security Researcher
+- 🌱  Interested in Programming and Web Security
+- 🧑🏻‍💻  Web Security Researcher
 
 
 ### Media
