@@ -1,10 +1,9 @@
 # Hi, I’m @alb-soul 👋
 
 
-
+Linux user enjoyer. Currently using Manjaro Linux 😀
 Interested in programming and web security.
 
-> ####  My write up 👉 [medium @alb-soul](https://medium.com/@alb-soul)
 # Media
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/imamuddin-al-mustaqim)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_7jCa87OTgBk8hZ2Gt2aig)
