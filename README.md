@@ -1,7 +1,7 @@
 # Hi, I’m @alb-soul 👋
 
 
-Linux user enjoyer. Currently using Manjaro Linux 😀
+Linux user enjoyer 🐧. Currently using Manjaro Linux [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)](https://manjaro.org)
 
 Interested in programming and web security.
 
