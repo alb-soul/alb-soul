@@ -6,7 +6,7 @@ Linux user enjoyer 🐧. Currently using Manjaro Linux 😃
 [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)](https://manjaro.org)
 
 
-![linuxku](https://github.com/alb-soul/alb-soul/assets/100475822/72e61392-7e3b-45b3-a9f3-8ccc5b02db52)
+![manjarorounded](https://github.com/alb-soul/alb-soul/assets/100475822/28b98183-3f89-450b-b90f-caee0f3f9da2)
 
 
 
