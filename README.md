@@ -11,6 +11,7 @@
 - 🏫  Student at University
 - 🌱  Interested in Programming and Web Security
 - 🧑🏻‍💻  Web Security Researcher
+"We break the rules, not heart 💔"
 
 
 ### Media
