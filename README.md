@@ -7,7 +7,7 @@
 
 
 ![manjarorounded](https://github.com/alb-soul/alb-soul/assets/100475822/28b98183-3f89-450b-b90f-caee0f3f9da2)
-<img src="https://github.com/alb-soul/alb-soul/assets/100475822/c928f693-ab09-464e-bbdc-c10a4563342b" width="300" height="200">
+<img src="https://github.com/alb-soul/alb-soul/assets/100475822/c928f693-ab09-464e-bbdc-c10a4563342b" width="600">
 
 - 🏫  Student at University
 - 🌱  Interested in Programming and Web Security
