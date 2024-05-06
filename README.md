@@ -7,6 +7,8 @@
 
 
 ![manjarorounded](https://github.com/alb-soul/alb-soul/assets/100475822/28b98183-3f89-450b-b90f-caee0f3f9da2)
+![image](https://github.com/alb-soul/alb-soul/assets/100475822/c928f693-ab09-464e-bbdc-c10a4563342b)
+
 
 - 🏫  Student at University
 - 🌱  Interested in Programming and Web Security
