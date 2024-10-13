@@ -10,9 +10,6 @@
 <img src="https://github.com/alb-soul/alb-soul/assets/100475822/c928f693-ab09-464e-bbdc-c10a4563342b" width="600">
 
 - 🏫  Student at University
-- 🌱  Interested in Programming and Web Security
-- 🧑🏻‍💻  Web Security Researcher
-"We break the rules, not heart 💔"
 
 
 ### Media
