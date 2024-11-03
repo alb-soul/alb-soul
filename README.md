@@ -10,7 +10,6 @@
 - 🏫  Student at University
 
 
-### Media
 ```Reach me in another place....```
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/imamuddin-al-mustaqim)
