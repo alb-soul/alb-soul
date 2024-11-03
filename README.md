@@ -4,7 +4,7 @@
 ```Linux user enjoyer 🐧. Currently using Manjaro Linux 😃```
 
 [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)](https://manjaro.org)
-![manjarorounded](https://github.com/alb-soul/alb-soul/assets/100475822/28b98183-3f89-450b-b90f-caee0f3f9da2)
+<img src="https://github.com/alb-soul/alb-soul/assets/100475822/28b98183-3f89-450b-b90f-caee0f3f9da2" width="700">
 
 - 🏫  Student at University
 
