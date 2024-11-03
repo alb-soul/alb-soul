@@ -21,6 +21,5 @@
 
 # 📋 Track
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=alb-soul)](https://github.com/alb-soul)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alb-soul&layout=compact)](https://github.com/alb-soul)
 
